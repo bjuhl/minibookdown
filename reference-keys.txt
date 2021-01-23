@@ -1,2 +1,5 @@
 create-your-open-textbook
 introduction-can-dogs-code
+a-very-good-dog
+are-you-a-good-boy
+whos-been-a-bad-dog

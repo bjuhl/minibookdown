@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Coding for Dogs"
+author: "Beth Juhl"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
